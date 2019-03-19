@@ -8,8 +8,6 @@ import Data.Maybe (fromMaybe)
 import Data.Monoid (mappend, mconcat)
 import Data.Time.Format (formatTime, defaultTimeLocale)
 import Data.Time.Clock (getCurrentTime)
--- import System.Locale (defaultTimeLocale)
--- import System.Locale (defaultTimeLocale)
 
 --------------------------------------------------------------------------------
 main :: IO ()
