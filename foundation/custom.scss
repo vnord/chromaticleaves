@@ -2,18 +2,22 @@
 
 @import "foundation/foundation-global";
 
+@font-face {
+    font-family: GlassTTYVT220;
+    src: local('Glass'),
+         url('/css/fonts/Glass_TTY_VT220.woff2') format("woff2"),
+         url('/css/fonts/Glass_TTY_VT220.woff') format("woff"),
+         url('/css/fonts/Glass_TTY_VT220.ttf') format("truetype");
+}
+
 /* not a fan of hanging bullets in the main content div */
 .content li {
   list-style-position: inside;
 }
 
-.base_header {
-  margin-top: 5%;
-}
-
 .base_header a {
   color: #222222;
-  font-family: 'Fjalla One', sans-serif;
+  font-family: GlassTTYVT220;
   font-size: 1.5em;
 }
 

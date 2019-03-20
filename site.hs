@@ -21,7 +21,7 @@ main = do
     match "templates/*" $ compile templateCompiler
 
     -- copy static assets
-    let assets = ["images/*", "js/**", "scores/*", "css/fonts/*", "slides/**"]
+    let assets = ["images/*", "js/**", "scores/*", "css/fonts/*", "cv.pdf" ]
 
     match (foldr1 (.||.) assets) $ do
         route   idRoute
