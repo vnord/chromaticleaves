@@ -211,7 +211,7 @@ feedConfiguration title = FeedConfiguration
     , feedDescription = "Ari von Nordenskjöld's personal blog"
     , feedAuthorName  = "Ari von Nordenskjöld"
     , feedAuthorEmail = "admin@vnord.net"
-    , feedRoot        = "http://vnord.net"
+    , feedRoot        = "https://vnord.net"
     }
 
 -- -----------------------------------------------------------------------------
