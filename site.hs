@@ -82,7 +82,7 @@ main = do
         compile $ do
             posts <- constField "posts" <$> postList pattern postCtx recentFirst
 
-            let tagsMeta = "Chromatic Leaves blog posts tagged as " ++ tag
+            let tagsMeta = "vnordnet blog posts tagged as " ++ tag
 
             let baseTagsMetaCtx = mconcat
                   [ constField "metadescription" tagsMeta
@@ -207,11 +207,11 @@ sassCompiler =
 -- | Builds an atom FeedConfiguration for the site or for a specific tag
 feedConfiguration :: String -> FeedConfiguration
 feedConfiguration title = FeedConfiguration
-    { feedTitle       = "chromatic leaves - " ++ title
-    , feedDescription = "Eric Rasmussen's personal blog"
-    , feedAuthorName  = "Eric Rasmussen"
-    , feedAuthorEmail = "eric@chromaticleaves.com"
-    , feedRoot        = "http://chromaticleaves.com"
+    { feedTitle       = "vnord - " ++ title
+    , feedDescription = "Ari von Nordenskjöld's personal blog"
+    , feedAuthorName  = "Ari von Nordenskjöld"
+    , feedAuthorEmail = "admin@vnord.net"
+    , feedRoot        = "http://vnord.net"
     }
 
 -- -----------------------------------------------------------------------------
