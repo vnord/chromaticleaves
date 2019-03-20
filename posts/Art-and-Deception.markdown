@@ -5,9 +5,9 @@ tags: art, deception, modern art, chimpanzees, Schneider, Guggenheim Prize, Tocq
 metadescription: Another edgy rant about modern art
 ---
 
->*I did think it looked a bit rushed.*
-
->--Dr. Katja Schneider, Director of the State Art Museum of Moritzburg in Saxony-Anhalt, after being informed that the painting that she had identified as the work of Guggenheim Prize winning artist Ernst Wilhelm Nay was in fact the work of a chimpanzee.
+>>*I did think it looked a bit rushed.*
+>
+> Dr. Katja Schneider, Director of the State Art Museum of Moritzburg in Saxony-Anhalt, after being informed that the painting that she had identified as the work of Guggenheim Prize winning artist Ernst Wilhelm Nay was in fact the work of a chimpanzee.
 
 In his seminal work *De la démocratie en Amérique*, Alexis de Tocqueville correctly predicts the development that art would take under the influence of the democratic spirit. It would be reduced to shapes and colours and similar fundamental and simplistic constructs, so as to enable demotic access. The lower man, lacking both the erudition required to identify the motives and symbolisms of the great art of the past, and the good taste required to differentiate beautiful works of skilled artists from ugly ones by unskilled artists, is most satisfied when these to him embarrassing elements are expunged. And it is to the lower man that democracy pays homage, in fact it is the axis around which it revolves.
 

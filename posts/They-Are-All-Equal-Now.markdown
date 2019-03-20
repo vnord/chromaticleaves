@@ -5,10 +5,9 @@ tags: Kubrick, Thackeray, Carlyle, Barry Lyndon, films
 metadescription: Notes on Barry Lyndon
 ---
 
->*No;—nor is there any sin more fearfully avenged on men and Nations than that same, which indeed includes and presupposes all manner of sins: the sin which our old pious fathers called "judicial blindness;"—which we, with our light habits, may still call misinterpretation of the Time that now is; disloyalty to its real meanings and monitions, stupid disregard of these, stupid adherence active or passive to the counterfeits and mere current semblances of these. This is true of all times and days.*  
-
-
->--Thomas Carlyle, *The Present Time*
+>>*No;—nor is there any sin more fearfully avenged on men and Nations than that same, which indeed includes and presupposes all manner of sins: the sin which our old pious fathers called "judicial blindness;"—which we, with our light habits, may still call misinterpretation of the Time that now is; disloyalty to its real meanings and monitions, stupid disregard of these, stupid adherence active or passive to the counterfeits and mere current semblances of these. This is true of all times and days.*  
+>
+>Thomas Carlyle, *The Present Time*
 
 
 *Barry Lyndon* is a magnificent work, not only for its exceptional employment of cameras, lightning and score, but more importantly for Kubrick's subtilty and ability to fantastically enhance Thackeray's already layered plot.

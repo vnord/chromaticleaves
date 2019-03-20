@@ -5,9 +5,9 @@ tags: art, life, Giacometti, modern art, Lelouch, Rembrandt, edgy
 metadescription: An edgy rant about modern art
 ---
 
->*Si en un incendio tuviera que escoger entre salvar a un gato o un Rembrandt, salvaría al gato,…y luego lo dejaría libre.*
-
->--Alberto Giacometti
+>>*Si en un incendio tuviera que escoger entre salvar a un gato o un Rembrandt, salvaría al gato,…y luego lo dejaría libre.*
+>
+>Alberto Giacometti
 
 The above citation, in itself, could be significant, had it been uttered by someone else, perhaps a true artist. But Giacometti was not an artist, he was as prime a representative of the post-modern hacks that have proliferated our poor museums with heaps of trash for a good while now as any. Had, however, Giacometti been a real artist, the statement could have been one of differentiation between sterile representation and true spirit. Giacometti, though, was as we have already concluded not a real artist, and one must assume that the lifelessness that he saw within the works of Rembrandt must have been a reflection of the sterility and lackluster quality of his own works.
 
