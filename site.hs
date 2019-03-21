@@ -8,6 +8,7 @@ import Data.Maybe (fromMaybe)
 import Data.Monoid (mappend, mconcat)
 import Data.Time.Format (formatTime, defaultTimeLocale)
 import Data.Time.Clock (getCurrentTime)
+import Text.Pandoc.Options
 
 --------------------------------------------------------------------------------
 main :: IO ()
@@ -52,7 +53,7 @@ main = do
     -- render each of the individual posts
     match "posts/*" $ do
         route $ setExtension "html"
-        compile $ pandocCompiler
+        compile $ pandocCompiler_
             >>= saveSnapshot "content"
             >>= loadAndApplyTemplate "templates/post.html" postCtx
             >>= applyBase
@@ -226,3 +227,13 @@ getCurrentYear = formatTime defaultTimeLocale "%Y" <$> getCurrentTime
 explorePattern :: Tags -> String -> Pattern
 explorePattern tags primaryTag = fromList identifiers
   where identifiers = fromMaybe [] $ lookup primaryTag (tagsMap tags)
+
+-- | Lets us include arbitrary extensions
+pandocCompiler_ :: Compiler (Item String)
+pandocCompiler_ =
+    let
+    newExtensions = foldr enableExtension defaultExtensions [ Ext_link_attributes ]
+    defaultExtensions = writerExtensions defaultHakyllWriterOptions
+    writerOptions =
+        defaultHakyllWriterOptions { writerExtensions = newExtensions }
+    in pandocCompilerWith defaultHakyllReaderOptions writerOptions
