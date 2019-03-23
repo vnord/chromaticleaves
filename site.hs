@@ -68,7 +68,7 @@ main = do
                   , baseCtx ]
 
             let basePostMetaCtx = mconcat
-                  [ constField "metadescription" "Chromatic Leaves post archive"
+                  [ constField "metadescription" "vnordnet post archive"
                   , baseCtx ]
 
             makeItem ""
